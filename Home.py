@@ -10,7 +10,7 @@ with col1:
 with col2:
     st.title("Paul Harris")
     content = """
-    I am a freelance Python programmer based in the UK. I am PCEP and PCAP certified
+    Hi, my name is Paul, I am a freelance Python programmer based in the UK. I am PCEP and PCAP certified
     and have passed the Harvard CS50x and CS50 Python course exams. This web page is to showcase
     some of the Apps I have built with the skills I have learned.
     """
